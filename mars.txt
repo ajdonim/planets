@@ -1,3 +1,4 @@
 Mars is red.
 It is smaller than Earth.
+I made a file about Venus.
 Mars is a planet in the solar system.
